@@ -1,0 +1,34 @@
+body{
+    font-family: poppins;
+    background-color: rgb(231, 255, 245);
+}
+table{
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color: rgb(57, 104, 198);
+}
+h1,h3{
+    color: rgb(0, 111, 91);
+}
+hr{
+    border-style: dotted none none;    
+    width: 8%;
+    border-width : 6px;
+    color: rgb(114, 142, 197);
+}
+form{
+    color: rgb(16, 128, 162);
+}
+input{
+    text-align:center ;
+    border: solid 0.5px rgb(103, 103, 103);
+}
+ul{
+    list-style-type: circle;
+}
+#div1{
+    text-align: center;
+    padding: 20px;
+}   
